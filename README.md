@@ -233,4 +233,4 @@ This repository serves as the official landing page for Amazon Music. The softwa
 **Get the most recent version of Amazon Music today!**
 
 ---
-**Last updated:** 2026-09-12 14:45:16 UTC
+**Last updated:** 2026-09-12 17:35:29 UTC
